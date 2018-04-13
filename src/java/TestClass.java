@@ -9,5 +9,5 @@
  * @author 5161025
  */
 public class TestClass {
-    
+    String test = "Test";
 }
